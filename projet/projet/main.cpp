@@ -6,7 +6,7 @@ int main(int argc, char *argv[])
 {
     cout<<"Hello"<<endl;
 
-    //Ceci est un commentaire
+    //Ceci est un commentaire//
 
     QCoreApplication a(argc, argv);
 
